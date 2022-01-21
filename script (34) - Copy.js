@@ -19,7 +19,7 @@ button.addEventListener('click', (e) => {
 })
 
 function showPath() {
-  console.log('с://desktop/a/test')
+  console.log('с://desktop/listfunc/listhacks.txt')
 }
 
 function keygen() {
