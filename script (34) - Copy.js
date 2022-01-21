@@ -28,11 +28,23 @@ function keygen() {
   }, 100);
 
   setTimeout(() => {
-    console.log('Успех: 10% | Пароль: s9Xj...')
+    console.log('Успех: 1% | Пароль: s...')
   }, 3000);
   setTimeout(() => {
+    console.log('Успех: 4% | Пароль: s9...')
+  }, 3200);
+  setTimeout(() => {
+    console.log('Успех: 7% | Пароль: s9X...')
+  }, 3400);
+  setTimeout(() => {
+    console.log('Успех: 9% | Пароль: s9X...')
+  }, 3600);
+  setTimeout(() => {
+    console.log('Успех: 10% | Пароль: s9Xj...')
+  }, 3800);
+  setTimeout(() => {
     console.log('Успех: 20% | Пароль: s9Xji1...')
-  }, 3500);
+  }, 4000);
   setTimeout(() => {
     console.log('Успех: 45% | Пароль: s9Xji10Nx...')
   }, 6000);
