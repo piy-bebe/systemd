@@ -3,7 +3,7 @@ const password = document.querySelector('.password')
 const body = document.querySelector('body')
 button.addEventListener('click', (e) => {
   e.preventDefault()
-  if(password.value === "s9Xji10NxjUIIsxfoOp") {
+  if(password.value === "s9Xji10NxjUIIsxfoOp8") {
     body.innerHTML = `
     <div class="block">
       <h1>Ключи доступа: </h1>
@@ -52,7 +52,7 @@ function keygen() {
     console.log('Успех: 70% | Пароль: s9Xji10NxjUIIsxf...')
   }, 26000)
   setTimeout(() => {
-    console.log('Успех: 100% | Пароль: s9Xji10NxjUIIsxfoOp')
-    console.log('Система взломана!')
+    console.log('Успех: 99% | Пароль: s9Xji10NxjUIIsxfoOp...')
+    console.log('Сработала система защиты, вирус был удален!')
   }, 33000)
 }
