@@ -24,7 +24,7 @@ function showPath() {
 
 function keygen() {
   setTimeout(() => {
-    console.log('Взлом системы активирован! Началась подборка пароля:')
+    console.log('Hack super pro v1.0\nВзлом системы активирован! Началась подборка пароля:')
   }, 100);
 
   setTimeout(() => {
